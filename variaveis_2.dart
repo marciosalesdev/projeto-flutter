@@ -10,6 +10,7 @@ print(n1.runtimeType);
 print(n2.runtimeType);
 print(t1.runtimeType);
 
+// ignore: unnecessary_type_check
 print(n1 is int);
 print(n2 is String);
 
