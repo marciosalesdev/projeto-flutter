@@ -2,7 +2,7 @@ main(){
 
 
 //Operadores Atribuição (Binario/Infix)
-int a = 2
+double a = 2;
 a = a + 3;
 a += 3;
 a -= 3;

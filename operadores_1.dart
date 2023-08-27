@@ -24,4 +24,4 @@ main(){
   print(!!ehCaro);
   
   
-}0
+}
