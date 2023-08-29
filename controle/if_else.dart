@@ -13,7 +13,7 @@ else if(nota >= 7 ) {
 else if(nota >= 5 ) {
     print('Recuperação!');
       }
-else if(nota <= 5 ) {
+else if(nota <= 4 ) {
     print('Recuperaçao + TRabalho!');
       } else {
         print('Reprovado!');
